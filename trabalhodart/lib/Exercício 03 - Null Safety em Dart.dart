@@ -2,6 +2,8 @@ void main() {
 
   String? apelido;
 
+  apelido = "Carlão";
+
   print("");
 
   if (apelido == null) {
