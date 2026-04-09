@@ -2,7 +2,7 @@ void main() {
 
   String? apelido;
 
-  apelido = "Carlão";
+  // apelido = "Carlão";
 
   print("");
 
